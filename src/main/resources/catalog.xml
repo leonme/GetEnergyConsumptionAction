@@ -1,0 +1,5 @@
+<ComponentCatalog>
+    <Category Name="Custom Action" Description="Custom Action for POC">
+        <Component Type="Action" Name="GetEnergyConsumptionAction" Description="Custom Action to get energy consumption from json file" Label="Energy Consumption From Json" ClassName="com.sap.mii.action.custom.GetEnergyConsumptionAction" AssemblyName="GetEnergyConsumptionAction-0.0.1-SNAPSHOT.jar" HelpFileName="" />
+    </Category>
+</ComponentCatalog>
